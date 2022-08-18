@@ -1,10 +1,10 @@
 [tool.poetry]
 name = "anonymizer"
 version = "0.1.0"
-description = "A neural anonymizer for CURLICAT"
+description = "An anonymizer tool for CURLICAT"
 readme = "README.md"
 authors = ["nyekibence <nyeki.bence96@gmail.com>"]
-license = "MIT"
+license = "GNU Lesser General Public License v3.0"
 
 [tool.poetry.dependencies]
 python = "^3.8"
