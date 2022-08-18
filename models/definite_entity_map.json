@@ -1,0 +1,6 @@
+{
+    "PER": [["Kiss", "Ferenc"], ["Gabi"]],
+    "LOC": [["Kisalföld"], ["Bem", "rakpart"]],
+    "ORG": [["Telekom"], ["Magyar", "Nemzeti", "Bank"]],
+    "MISC": [["Nobel-díj"], ["Hugging", "Face"]]
+}

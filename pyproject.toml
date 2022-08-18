@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "anonymizer"
+version = "0.1.0"
+description = "A neural anonymizer for CURLICAT"
+readme = "README.md"
+authors = ["nyekibence <nyeki.bence96@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+torch = "^1.12.1"
+transformers = "^4.21.1"
+fastapi = "^0.78.0"
+uvicorn = "^0.18.2"
+emmorphpy = {url = "https://github.com/dlt-rilmta/emmorphpy/releases/download/v1.1.0/emmorphpy-1.1.0-py3-none-any.whl"}
+purepospy = {url = "https://github.com/dlt-rilmta/purepospy/releases/download/v1.0.1/purepospy-1.0.1-py3-none-any.whl"}
+quntoken = "^3.1.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

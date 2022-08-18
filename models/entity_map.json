@@ -1,0 +1,6 @@
+{
+    "PER": [["Kiss", "Ferenc"], ["Anna"]],
+    "LOC": [["Anglia"], ["Bem", "rakpart"]],
+    "ORG": [["Magyarország"], ["Magyar", "Nemzeti", "Bank"]],
+    "MISC": [["Nobel-díj"], ["Hugging", "Face"]]
+}
